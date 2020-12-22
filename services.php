@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <nav class="navbar navbar-expand-lg navbar-light bg-secondary">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">Interio Designs</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -39,7 +39,7 @@
        <div class="row">
            <div class="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12  col-xxl-12">
             <div class="card mb-3">
-                <img src="images\interior7.jpg" class="card-img-top" alt="..." height="400" width="700">
+                <img src="images\interior1.jpg" class="card-img-top" alt="..." height="400" width="700">
                 <div class="card-body">
                     <style>
                         h5{

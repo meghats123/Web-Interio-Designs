@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <nav class="navbar navbar-expand-lg navbar-light bg-secondary">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">Interio Designs</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -41,7 +41,7 @@
                 <div class="row row-cols-1 row-cols-md-2 g-4">
                     <div class="col">
                       <div class="card">
-                        <img src="images\interior5.jpg" class="card-img-top" alt="..." height="200" width="500">
+                        <img src="images\inte4.jpg" class="card-img-top" alt="..." height="200" width="500">
                        
                       </div>
                     </div>
@@ -53,7 +53,7 @@
                     </div>
                     <div class="col">
                       <div class="card">
-                        <img src="images\interior8.jpg" class="card-img-top" alt="..." height="200" width="500">
+                        <img src="images\interior2.jpg" class="card-img-top" alt="..." height="200" width="500">
                         
                       </div>
                     </div>
@@ -77,13 +77,13 @@
                       </div>
                       <div class="col">
                         <div class="card">
-                          <img src="images\interior7.jpg" class="card-img-top" alt="..." height="200" width="500">
+                          <img src="images\interior10.jpg" class="card-img-top" alt="..." height="200" width="500">
                           
                         </div>
                       </div>
                       <div class="col">
                         <div class="card">
-                          <img src="images\interior10.jpg" class="card-img-top" alt="..." height="200" width="500">
+                          <img src="images\interior7.jpg" class="card-img-top" alt="..." height="200" width="500">
                           
                         </div>
                       </div>
